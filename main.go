@@ -73,6 +73,7 @@ func main() {
 		usedNet := vals[6]
 		dataGetErr = 0
 
+		// new comment
 		// fmt.Printf("Распарсенные значения: %d, %d, %d, %d, %d, %d, %d\n\n\n",
 		// 	load, totalMem, usedMem, totalDisk, usedDisk, totalNet, usedNet)
 
